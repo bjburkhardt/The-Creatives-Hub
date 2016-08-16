@@ -22,5 +22,6 @@ p {
 }
 
 .main-nav {
+  position:relative;
   display:inline-block;
 }
