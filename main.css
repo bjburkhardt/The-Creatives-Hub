@@ -1,5 +1,26 @@
 /* main css */
+body {
+  font-size:12px;
+  font-family:times;
+}
+
+h1 {
+  font-size:2.25em;
+  font-weight:none;
+}
+
+h2 {
+  font-size:1.5em;
+}
+
+h3 {
+  font-size:1.25em;
+}
 
 p {
-  font-size: 100px;
+  font-size: 1em;
+}
+
+.main-nav {
+  display:inline-block;
 }
