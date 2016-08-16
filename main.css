@@ -2,7 +2,11 @@
 body {
   font-size:12px;
   font-family:times;
+  background-color: #fff; 
+  width: 1em;
+  content: center;
 }
+
 
 h1 {
   font-size:2.25em;
