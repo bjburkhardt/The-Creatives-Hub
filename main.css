@@ -5,6 +5,14 @@ body {
   background-color: white;
 }
 
+header {
+  background-color: none;
+}
+
+nav {
+  background-color: none;
+}
+  
 h1 {
   font-size:2.25em;
   font-weight:none;
