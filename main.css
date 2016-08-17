@@ -1,12 +1,16 @@
 body {
   font-size:12px;
   font-family:times;
+  position: relative;
 }
 
 header {
+  position: center;
 }
 
 nav {
+  display: inline-block;
+  text-decoration: none;
 }
   
 h1 {
