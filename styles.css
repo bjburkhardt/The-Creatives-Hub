@@ -2,17 +2,27 @@ body {
   font-size:12px;
   font-family:times;
   position: relative;
+  margin: none;
 }
 header {
   width: 100%;
   height: 250px;
   background-color: blue;
+  margin: none;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+
 } 
+
+li {
+  position: relative;
+  float: center;
+  bottom: 10px;
+}
+
 li a {
      display: block;
 }
