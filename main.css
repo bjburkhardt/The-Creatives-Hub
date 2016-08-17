@@ -8,9 +8,13 @@ header {
   position: center;
 }
 
-nav {
-  display: inline-block;
+nav li {
+  display: inline;
   text-decoration: none;
+}
+
+nav ul{
+  list-style-type: none;
 }
   
 h1 {
